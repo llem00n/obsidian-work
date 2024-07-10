@@ -8,3 +8,5 @@
 - [ ] check wiki
 
 ## notes
+- the new repo has to be created
+- check sdk .net project format
