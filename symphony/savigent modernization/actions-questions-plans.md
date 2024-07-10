@@ -4,7 +4,7 @@
 
 - [x] clone repo 
 - [ ] what branch do we use
-- Clint-DO-103454/onRelease_8.4
+- Clint-DO-103454/onRelease_8.4 (will be renamed)
 - [ ] what is that .net framework -> .net 8 translation tool
 - [ ] what projects do we translate
 - [ ] is there any testing environment?
