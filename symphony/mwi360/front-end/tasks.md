@@ -1,0 +1,3 @@
+- [x] fix *operations* and *materials* filters on the **add delivery** page 📅 2024-06-21 ✅ 2024-06-24
+- [x] ask about translation management ⏳ 2024-06-25 ✅ 2024-06-25
+- [ ] 

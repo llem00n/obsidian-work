@@ -1,0 +1,1 @@
+- make super-admin role non-removable

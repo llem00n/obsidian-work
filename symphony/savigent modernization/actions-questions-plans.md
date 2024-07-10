@@ -1,0 +1,2 @@
+- [ ] what branch is the active one?
+- [ ] who should i talk to?

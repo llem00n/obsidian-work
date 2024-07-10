@@ -1,0 +1,1 @@
+- [x] `ModuleAccessConfig` must have correct fields configuration (required/optional) ✅ 2024-06-25

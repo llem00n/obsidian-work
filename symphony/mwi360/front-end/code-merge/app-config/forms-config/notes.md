@@ -1,0 +1,2 @@
+- [x] configure material form ✅ 2024-07-03
+- [ ] fix bottom borders when hiding sections

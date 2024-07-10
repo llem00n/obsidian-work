@@ -1,0 +1,2 @@
+- [x] check recipes-data/data-fields/data-fields-list component (maybe add `*ngIf="canEdit; else ..."`) ✅ 2024-06-27
+- [x] change `canEdit` logic ✅ 2024-06-27

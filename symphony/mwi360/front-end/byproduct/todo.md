@@ -1,0 +1,2 @@
+- [x] schedule a meeting with kenny and sergio about the byproduct stuff ✅ 2024-06-27
+- [x] talk to nikolai about that ✅ 2024-07-01

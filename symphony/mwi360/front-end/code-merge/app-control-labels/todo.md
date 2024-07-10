@@ -1,0 +1,2 @@
+- [x] check add-new-order planned quantity and UOM inputs (must update validity when material is selected correctly) ✅ 2024-07-03
+- [ ] 
