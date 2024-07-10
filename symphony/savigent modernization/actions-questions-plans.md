@@ -1,5 +1,7 @@
 - [x] who is the contact person?
 - Clint Myhre is the contact person
+- Ranjit Kancheria
+
 - [x] clone repo 
 - [ ] what branch do we use
 - [ ] what is that .net framework -> .net 8 translation tool
