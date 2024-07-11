@@ -25,4 +25,4 @@ Possible solutions:
 	- Minimal code update
 	- Full support of both .NET and .NET Framework
 	Cons:
-	- Community-driven library (could be unstable)
+	- Does not have the ServiceHost class implementation, so, rewrite is still required
