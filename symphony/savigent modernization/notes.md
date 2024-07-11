@@ -19,9 +19,10 @@ Possible solutions:
 	- Improved performance
 	Cons:
 	- It will take ages to implement
+	- Limited support of .NET Framework ([Use gRPC client with .NET Standard 2.0 | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/grpc/netstandard?view=aspnetcore-8.0#net-framework))
 - Use CoreWCF library.
 	Pros:
 	- Minimal code update
+	- Full support of both .NET and .NET Framework
 	Cons:
 	- Community-driven library (could be unstable)
-	- 
