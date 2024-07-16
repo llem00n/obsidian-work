@@ -1,2 +1,2 @@
-- [ ] Understanding the purpose of each project so I can effectively move classes
-- [ ] 
+- [ ] Understand the purpose of each project so I can effectively move classes
+- [ ] Move VirtualNodeManager to a fitting project
