@@ -1,0 +1,2 @@
+- [ ] Understanding the purpose of each project so I can effectively move classes
+- [ ] 

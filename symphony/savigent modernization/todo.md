@@ -1,1 +1,0 @@
-- [ ] prepare the list of actions, plans, actions i need to do. e.g
