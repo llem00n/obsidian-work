@@ -26,3 +26,4 @@ Possible solutions:
 	- Full support of both .NET and .NET Framework
 	Cons:
 	- Does not have the ServiceHost class implementation, so, rewrite is still required
+###### ❓Application Domains are not supported in .NET5+
