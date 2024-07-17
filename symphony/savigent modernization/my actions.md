@@ -1,2 +1,5 @@
-- [ ] Understand the purpose of each project so I can effectively move classes
-- [ ] Move VirtualNodeManager to a fitting project
+- Project research
+	- Understanding the algorithms
+	- Upgrading individual projects so I can see what's supported and what's not
+	- Creating a list of unsupported items and possible solutions
+- Implementation
