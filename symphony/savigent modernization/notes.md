@@ -29,3 +29,8 @@ Possible solutions:
 ###### ❓Application Domains are not supported in .NET5+
 
 ###### ❓Check if workflows start ServiceHost
+
+## notes
+
+#### required DLLs
+- savigent.platform.workflow.dll
