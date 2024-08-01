@@ -40,4 +40,6 @@ Possible solutions:
 - ***NET8-Upgrade-TODO*** - todo items, created during .NET 8 upgrade initiative
 - ***NET8-Upgrade-NOTE*** - notes, created during .NET 8 upgrade initiative
 - ***WCF-NET8-Upgrade*** - all comments related to WCF -> CoreWCF upgrade, created during .NET 8 upgrade initiative
-- ***WCF-NET8-Upgrade-TODO*** - todo items, created 
+- ***WCF-NET8-Upgrade-TODO*** - todo items related to WCF -> CoreWCF upgrade, created during .NET 8 upgrade initiative
+- ***WCF-NET8-Upgrade-NOTE*** - notes related to WCF -> CoreWCF upgrade, created during .NET 8 upgrade initiative
+- ***Olek-...*** my comments / todo items / notes
