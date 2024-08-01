@@ -5,7 +5,8 @@
 - **Node** - 2d
 - **Parts** - 1d
 - **Shared** - 2d
-***Total***: 7.5d
+***Total*** - 7.5d
 
 ### WCF -> CoreWCF conversion
-- ***Engines' ServiceHosts*** - 5d
+- **Engines' ServiceHosts** - 5d
+- **Configurations** - depends on Microsoft's information
