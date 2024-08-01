@@ -43,3 +43,4 @@ Possible solutions:
 - ***WCF-NET8-Upgrade-TODO*** - todo items related to WCF -> CoreWCF upgrade, created during .NET 8 upgrade initiative
 - ***WCF-NET8-Upgrade-NOTE*** - notes related to WCF -> CoreWCF upgrade, created during .NET 8 upgrade initiative
 - ***Olek-...*** my comments / todo items / notes
+- ***NET8-Upgrade-TODO: Uncomment this once ...*** - TODO's that should be automatically resolved my upgrading projects to .NET 8
