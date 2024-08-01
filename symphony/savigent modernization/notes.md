@@ -34,3 +34,10 @@ Possible solutions:
 
 #### required DLLs
 - savigent.platform.workflow.dll
+
+#### TODO comments
+- ***NET8-Upgrade*** - all comments, created during .NET 8 upgrade initiative
+- ***NET8-Upgrade-TODO*** - todo items, created during .NET 8 upgrade initiative
+- ***NET8-Upgrade-NOTE*** - notes, created during .NET 8 upgrade initiative
+- ***WCF-NET8-Upgrade*** - all comments related to WCF -> CoreWCF upgrade, created during .NET 8 upgrade initiative
+- ***WCF-NET8-Upgrade-TODO*** - todo items, created 
