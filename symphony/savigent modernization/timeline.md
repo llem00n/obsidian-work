@@ -8,4 +8,4 @@
 ***Total***: 7.5d
 
 ### WCF -> CoreWCF conversion
-- ***Engines' ServiceHosts*** - 
+- ***Engines' ServiceHosts*** - 5d
